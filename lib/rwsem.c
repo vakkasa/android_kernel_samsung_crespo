@@ -8,7 +8,7 @@
 #include <linux/rwsem.h>
 #include <linux/sched.h>
 #include <linux/init.h>
-#include <linux/export.h>
+#include <linux/module.h>
 
 /*
  * Initialize an rwsem:
